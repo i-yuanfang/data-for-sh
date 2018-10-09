@@ -1,5 +1,4 @@
 # 转载自逗比脚本，备份使用
-- 版权说明
 - 版权归ToyoDAdoubi所有，原项目地址：https://github.com/bluekk935/ToyoDAdoubi 
 
 
@@ -286,5 +285,3 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 # 卸载
 bash Get_Out_Spam.sh del
 ```
-
-Copyright (C) 2016-2017 Toyo <https://doub.io>
