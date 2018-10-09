@@ -1,4 +1,6 @@
 # 转载自逗比脚本，备份使用
+- 版权说明
+- 版权归ToyoDAdoubi所有，原项目地址：https://github.com/bluekk935/ToyoDAdoubi 
 
 
 ssrmu.sh
@@ -30,9 +32,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/zfyxy123/data-f
 - 支持 一键安装 锐速
 - 支持 一键安装 BBR
 - 支持 一键封禁 垃圾邮件(SMAP)/BT/PT
-
-- 版权说明
-- 版权归ToyoDAdoubi所有，原项目地址：https://github.com/bluekk935/ToyoDAdoubi 
 
 
 ssr.sh
