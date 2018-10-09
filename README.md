@@ -12,7 +12,7 @@ ssrmu.sh
 
 ### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/zfyxy123/data-for-sh/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/i-yuanfang/data-for-sh/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 ```
 
 ssr.sh
